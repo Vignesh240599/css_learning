@@ -1,0 +1,46 @@
+div .flag
+{
+    background-color: rgb(255, 119, 34);
+    height: 50px;
+    width: 250px; 
+    margin-top: 250px;
+    margin-left: 500px;
+
+}
+.flag1
+{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    margin-top: 40px;
+}
+.flag2
+{
+    background-color: green;
+    height: 40px;
+    width: 200px5
+}
+div > .flag
+{
+    position: absolute;
+}
+div > p
+{
+    position: absolute;
+}
+.acc
+{
+    color: red;
+    text-align: center;
+    margin-left: 8px;
+    margin-top: 20px;
+}
+
+.flag3
+{
+    background-color: royalblue;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    margin-left: 75px;
+}
